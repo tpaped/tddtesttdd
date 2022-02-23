@@ -45,6 +45,7 @@ std::string Soundex::encodeDigit(char iletter) const
                     {'m',"5"},{'n',"5"},
                     {'r',"6"}
             };
-    return encodings.find(iletter)->second;
+    auto it = encodings.find(iletter);
+    return it == encodings.end()? "":it->second;
 
 }
