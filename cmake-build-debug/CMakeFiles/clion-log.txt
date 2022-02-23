@@ -1,0 +1,4 @@
+/home/tpapageo/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/bin/gcc-8.3 -DCMAKE_CXX_COMPILER=/usr/bin/g++-8.3 -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/tpapageo/CLionProjects/untitled
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/tpapageo/CLionProjects/untitled/cmake-build-debug

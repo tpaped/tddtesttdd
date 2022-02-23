@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tpapageo/CLionProjects/untitled/Soundex.cpp
+Soundex.h
+/home/tpapageo/CLionProjects/untitled/Soundex.h
+
+/home/tpapageo/CLionProjects/untitled/Soundex.h
+iostream
+/home/tpapageo/CLionProjects/untitled/iostream
+
+/home/tpapageo/CLionProjects/untitled/main.cpp
+iostream
+-
+gtest/gtest.h
+-
+
